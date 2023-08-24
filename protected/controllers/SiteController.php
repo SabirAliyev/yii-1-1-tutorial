@@ -6,6 +6,14 @@ class SiteController extends Controller
         echo "hello world";
     }
 
+    public function actionHelp(){
+        echo "Help me";
+    }
+
+    public function actionFaq(){
+        echo "This is a FAQ";
+    }
+
 	/**
 	 * Declares class-based actions.
 	 */
