@@ -1,5 +1,7 @@
 <?php
 
+use Relay\Event;
+
 class DashboardController extends Controller
 {
     public $pageTitle = "This is the pag title";

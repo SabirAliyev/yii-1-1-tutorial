@@ -12,8 +12,8 @@ return array(
 	'charset' => 'utf8',
     */
 
-    'connectionString' => 'pgsql:host=localhost;dbname=testdrive',
-    'username' => 'root',
-    'password' => '',
+    'connectionString' => 'pgsql:host=localhost;dbname=tutorial_db',
+    'username' => 'postgres',
+    'password' => 'postgres',
     'charset' => 'utf8',
 );
